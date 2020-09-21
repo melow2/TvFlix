@@ -81,8 +81,7 @@ object Deps {
             const val runtime = "androidx.paging:paging-runtime-ktx:${Versions.paging}"
         }
 
-        const val constraint_layout =
-            "androidx.constraintlayout:constraintlayout:${Versions.constraint_layout}"
+        const val constraint_layout = "androidx.constraintlayout:constraintlayout:${Versions.constraint_layout}"
 
         const val ktx_core = "androidx.core:core-ktx:${Versions.ktx_core}"
         const val ktx_fragment = "androidx.fragment:fragment-ktx:${Versions.ktx_fragment}"
